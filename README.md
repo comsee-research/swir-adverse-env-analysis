@@ -1,1 +1,1 @@
-# Analysis of SWIR Imaging Detection Performance Under AdverseEnvironmental Conditions for Autonomous Driving Systems
+# Analysis of SWIR Imaging Detection Performance Under Adverse Environmental Conditions for Autonomous Driving Systems
